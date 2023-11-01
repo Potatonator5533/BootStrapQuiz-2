@@ -1,0 +1,13 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.numberBorder{
+    border: 1px solid;
+    background-color: #626161;
+}
